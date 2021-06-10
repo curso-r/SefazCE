@@ -23,6 +23,7 @@ Imports:
     janitor,
     magrittr,
     purrr,
+    rvest,
     stringr,
     tibble,
     xml2
